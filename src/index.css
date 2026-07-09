@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Poppins:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #2E7D32;
+  --color-herbal: #4CAF50;
+  --color-sage: #A5D6A7;
+  --color-cream: #FFF8E7;
+  --color-beige: #F5F5DC;
+  --color-earth: #8D6E63;
+  --color-olive: #556B2F;
+  --color-gold: #D4AF37;
+  
+  --font-sans: "Inter", "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Lora", ui-serif, Georgia, serif;
+  --font-display: "Poppins", sans-serif;
+}
+
+body {
+  font-family: "Inter", "Poppins", sans-serif;
+  scroll-behavior: smooth;
+  @apply bg-[#FCFBF7] text-slate-800 transition-colors duration-300;
+}
+
+.dark body {
+  @apply bg-slate-900 text-slate-100;
+}
+
+/* Glassmorphism utility with nature warmth */
+.glass-panel {
+  background: rgba(255, 248, 231, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(46, 125, 50, 0.1);
+}
+
+.dark .glass-panel {
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Custom scrollbar matching forest theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #A5D6A7;
+  border-radius: 4px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #2E7D32;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4CAF50;
+}
+
+

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "admin-1",
+    "email": "admin@nirogitanman.com",
+    "phone": "9999999999",
+    "password": "hash_39c43b7d",
+    "name": "Dr. Alok Verma",
+    "role": "admin",
+    "age": 48,
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "address": "Healthcare Enclave, New Delhi",
+    "emergencyContact": "9999999998",
+    "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": "doctor-1",
+    "email": "doctor1@nirogitanman.com",
+    "phone": "9876543211",
+    "password": "hash_36a9a4b3",
+    "name": "Dr. Aditya Sharma",
+    "role": "doctor",
+    "specialization": "Cardiology",
+    "qualification": "MD (Integrative Cardiology), PG Diploma in Ayurvedic Cardiology",
+    "experience": "15 Years",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "consultationFee": 800,
+    "availableTime": "10:00 AM - 02:00 PM",
+    "rating": 4.9,
+    "biography": "Dr. Aditya Sharma bridges modern clinical cardiology and Vedic lifestyle therapy, prescribing organic cardio-protective herbs and yoga to lower blood pressure and reverse arterial plaque naturally.",
+    "certificates": [
+      "Fellowship in Ayurvedic Cardiology",
+      "Member of Cardiological Society of India"
+    ],
+    "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": "doctor-2",
+    "email": "doctor2@nirogitanman.com",
+    "phone": "9876543212",
+    "password": "hash_36a9a4b3",
+    "name": "Dr. Priya Patel",
+    "role": "doctor",
+    "specialization": "General Medicine",
+    "qualification": "BAMS, MD (Ayurvedic Kayachikitsa)",
+    "experience": "10 Years",
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati"
+    ],
+    "consultationFee": 500,
+    "availableTime": "02:00 PM - 06:00 PM",
+    "rating": 4.8,
+    "biography": "Dr. Priya Patel is a certified Ayurvedic Physician with 10+ years of clinical practice. She specializes in Kayachikitsa (Internal Medicine) and custom herbal pharmacology to treat metabolic disorders and manage diabetes naturally.",
+    "certificates": [
+      "Specialization in Ayurvedic Diabetology",
+      "AHA Certified General Physician"
+    ],
+    "avatar": "/src/assets/images/dr_priya_patel_1783616739766.jpg"
+  },
+  {
+    "id": "doctor-3",
+    "email": "doctor3@nirogitanman.com",
+    "phone": "9876543213",
+    "password": "hash_36a9a4b3",
+    "name": "Dr. Vikram Malhotra",
+    "role": "doctor",
+    "specialization": "Psychiatry",
+    "qualification": "MD (Holistic Psychiatry), Certified Mindfulness Trainer",
+    "experience": "12 Years",
+    "languages": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "consultationFee": 1000,
+    "availableTime": "04:00 PM - 08:00 PM",
+    "rating": 4.7,
+    "biography": "Dr. Vikram Malhotra specializes in anxiety therapy, mental wellness, clinical depression counseling, and mindfulness-based cognitive therapy integrated with calming herbal adaptogens.",
+    "certificates": [
+      "Indian Psychiatric Society Fellow",
+      "Cognitive Behavioral Therapy Specialist"
+    ],
+    "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": "doctor-4",
+    "email": "doctor4@nirogitanman.com",
+    "phone": "9876543214",
+    "password": "hash_36a9a4b3",
+    "name": "Dr. Sneha Reddy",
+    "role": "doctor",
+    "specialization": "Ayurveda & Yoga",
+    "qualification": "BAMS, MD (Ayurveda Panchakarma)",
+    "experience": "8 Years",
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "consultationFee": 400,
+    "availableTime": "09:00 AM - 01:00 PM",
+    "rating": 4.9,
+    "biography": "Dr. Sneha combines traditional Vedic cleansing sciences (Panchakarma) with modern metabolic detox guidelines, offering deep physiological purification and systemic healing.",
+    "certificates": [
+      "Panchakarma Expert Certification",
+      "Advanced Yoga Trainer Diploma"
+    ],
+    "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": "patient-1",
+    "email": "rajlalit2026@gmail.com",
+    "phone": "9876543210",
+    "password": "hash_53ab39b7",
+    "name": "Raj Lalit",
+    "role": "patient",
+    "age": 28,
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "address": "Flat 402, Green Meadows, Sector 62, Noida",
+    "emergencyContact": "9876543219",
+    "height": "178 cm",
+    "weight": "72 kg",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200"
+  }
+]

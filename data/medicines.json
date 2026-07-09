@@ -1,0 +1,62 @@
+[
+  {
+    "id": "med-1",
+    "name": "Brahmi Brain Essence (Bacopa Monnieri)",
+    "brand": "Himalaya Organics",
+    "category": "Ayurveda & Brain Health",
+    "description": "A premium organic adaptogenic brain tonic clinically studied for enhancing memory, focus, cognitive processing speeds, and calming nervous stress levels.",
+    "price": 380,
+    "discount": 10,
+    "stock": 120,
+    "prescriptionRequired": false,
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "med-2",
+    "name": "KSM-66 Organic Ashwagandha Extract",
+    "brand": "Organic India",
+    "category": "Stress & Sleep Support",
+    "description": "Pure, high-concentration adaptogenic Ashwagandha root extract. Works directly to lower physiological cortisol markers, alleviate exhaustion, and restore healthy circadian sleep cycles.",
+    "price": 450,
+    "discount": 15,
+    "stock": 80,
+    "prescriptionRequired": false,
+    "image": "/src/assets/images/ashwagandha_leaves_1783616727771.jpg"
+  },
+  {
+    "id": "med-3",
+    "name": "Amrit Tulsi & Giloy Immunity Shield",
+    "brand": "Vaidyaratnam",
+    "category": "Respiratory & Immunity",
+    "description": "A potent therapeutic infusion of Holy Basil (Tulsi) and heart-leaved Moonseed (Giloy). Fortifies respiratory immunity, fights seasonal viral stress, and purifies systemic blood.",
+    "price": 290,
+    "discount": 8,
+    "stock": 95,
+    "prescriptionRequired": false,
+    "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "med-4",
+    "name": "Himalayan Shodhit Shilajit Resin",
+    "brand": "Kapiva Wellness",
+    "category": "Ojas & Systemic Energy",
+    "description": "Gold-grade purified organic Shilajit resin. Enriched with over 84+ mineral compounds and high fulvic acid content to enhance oxygenation, muscle recovery, and stamina.",
+    "price": 990,
+    "discount": 12,
+    "stock": 60,
+    "prescriptionRequired": false,
+    "image": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "med-5",
+    "name": "Triphala Organic Digestive Cleanse",
+    "brand": "Patanjali Ayurveda",
+    "category": "Digestive & Detox",
+    "description": "The classic Ayurvedic blend of Amalaki, Bibhitaki, and Haritaki fruit powders. Promotes natural colon detoxification, eases sluggish digestion, and balances internal Agni (digestive fire).",
+    "price": 190,
+    "discount": 5,
+    "stock": 150,
+    "prescriptionRequired": false,
+    "image": "https://images.unsplash.com/photo-1611070973770-b1a6cdb63298?auto=format&fit=crop&q=80&w=600"
+  }
+]

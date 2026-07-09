@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nirogi-TanMan",
+  "description": "Your Trusted Digital Healthcare Partner. Book doctor appointments, buy medicines, consult with AI health assistant, track your wellness goals, and access multi-role medical dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
